@@ -4,10 +4,15 @@
   "description": "api fake",
   "main": "index.js",
   "scripts": {
+    "start": "json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisotavio2023/apifatec.git"
+  },
+  "keywords": ["api", "fake"],
+  "author": "Luis Otávio",
   "license": "ISC",
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"

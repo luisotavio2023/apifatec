@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "id":1,
+            "nome": "Luis Otávio",
+            "email": "luis.sampaio@gmail.com",
+            "estilo": "natural"
+        },
+        {
+            "id":2,
+            "nome": "Um ser ae",
+            "email": "useraleatorio@gmail.com",
+            "estilo": "harmonizado"
+        }
+
+    ] 
+}
